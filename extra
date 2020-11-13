@@ -1,0 +1,58 @@
+Basic JavaScript
+Npm
+React = 3
+React-JWT(Login Logout)-1
+React-GarphQL-1
+Mock API
+json-server
+React_hooks -1
+Basic React Native=1
+React-Saga -1
+React-Redux =2
+Testing
+Github
+Depolyment
+-> MERN
+-> Docker
+-> heroku
+-> Nginx
+React-with-typescript-1
+
+--------NOT--------------
+API
+GarphQL
+Login/Logout
+
+
+-----------
+React is frontend lib  use to make single page application
+
+npm > node package manager
+
+JSON > JavaScript Object notation
+[
+    {
+        name:"Aa",
+        class:1
+    },
+    {
+        name:"BB",
+        class:2
+    }
+]
+
+
+package.json
+> first file of application
+> entry point to application
+> meta data 
+> packages
+> build/start/test
+
+>>>>>>>>Step to make package.json<<<<<<<<
+** NodeJS in should be install
+> go to cmd/terminal
+> navigate to folder
+> npm init
+> answer all questions
+> type yes
