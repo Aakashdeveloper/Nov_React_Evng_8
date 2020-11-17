@@ -56,3 +56,38 @@ package.json
 > npm init
 > answer all questions
 > type yes
+
+>>>>>>>>Step to install any package<<<<<<<<
+** NodeJs must be installed
+> go to cmd/terminal
+> navigate to folder where you want to install
+> npm i package name
+
+npm i 
+
+>>>>>>>>Step to generate React App<<<<<<<<
+#window
+......One Time For One System..........
+> Run cmd as admin
+> npm i -g create-react-app
+
+......Next All Time in above System..........
+> go to folder where you want app 
+> create-react-app appname
+
+###################---------#################
+
+#mac/linux
+......One Time For One System..........
+> Open terminal
+> sudo npm i -g create-react-app
+
+......Next All Time in above System..........
+> go to folder where you want app 
+> create-react-app appname
+
+>>>>>>>>Step to Run App<<<<<<<<
+> open cmd/ terminal
+> go inside app
+> npm start
+> http://localhost:3000

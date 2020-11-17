@@ -11,5 +11,9 @@
     "react"
   ],
   "author": "Nareshit",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.1",
+    "redux": "^4.0.5"
+  }
 }
