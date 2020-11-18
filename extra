@@ -91,3 +91,33 @@ npm i
 > go inside app
 > npm start
 > http://localhost:3000
+
+
+///////
+function
+> display component
+> dumb component
+> cannot maintain state
+
+classcomponent
+> logical component
+> can maintain state
+> use for api call as well as display
+
+
+hooks component
+
+//es5
+function add(a,b){
+    return a+b
+}
+
+//es6
+const add = (a,b) => {return a+b}
+
+///////////////
+Monday 8:00pm
+Wednesday  8:00pm
+Friday  8:00pm
+saturday 7:00pm
+Sunday   7:00pm
