@@ -1,0 +1,74 @@
+import React,{Component,Fragment} from 'react';
+
+class Header extends Component {
+
+    constructor(){
+        super()
+
+        this.state={
+            title:'React App',
+            keyword:'User Text Here'
+        }
+    }
+
+    render(){
+        const mystyle={
+            header:{
+                backgroundColor:'teal'
+            },
+            logo:{
+                fontSize:'30px',
+                textAlign:'center',
+                color:'#fff'
+            }
+        }
+        return(
+            <Fragment>
+                <header style={mystyle.header}>
+                    <div style={mystyle.logo}>{this.state.title}</div>
+                    <center>
+                        <input/>
+                        <div style={{color:'white'}}>{this.state.keyword}</div>
+                    </center>
+                </header>
+                <hr/>
+            </Fragment>
+        )
+    }
+    
+}
+
+export default Header;
+
+
+
+/*
+import React from 'react';
+
+const Header = () => {
+    return(
+        <div>
+            <center>
+                <h1>React App</h1>
+            </center>
+            <hr/>
+        </div>
+    )
+}
+
+export default Header;
+
+var React = require('react');
+
+function Header(){
+    return(
+        <div>
+            <center>
+                <h1>React App</h1>
+            </center>
+            <hr/>
+        </div>
+    ) 
+}
+export default Header;
+*/

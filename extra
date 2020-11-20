@@ -121,3 +121,12 @@ Wednesday  8:00pm
 Friday  8:00pm
 saturday 7:00pm
 Sunday   7:00pm
+
+State > is like local variable
+> scope of state is only inside particular component
+> Any data interaction will happen through state
+> value of state can be updated
+
+Props
+> props are use to transfer data from one component to other
+> value of props cannot update
