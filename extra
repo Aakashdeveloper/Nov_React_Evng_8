@@ -130,3 +130,30 @@ State > is like local variable
 Props
 > props are use to transfer data from one component to other
 > value of props cannot update
+
+
+map in JavaScript
+filter in JavaScript
+indexof in JavaScript
+
+
+JSON
+var student = [
+    {
+        name:'John',
+        class:'Node'
+    },
+    {
+        name:'Alvin',
+        class:'React'
+    }
+]
+
+map in javascript 
+
+var city = ["Delhi","London","Amsterdam"]
+city.map((data) => { console.log(`my city is ${data}`)
+
+my city is Delhi
+my city is London
+my city is Amsterdam
