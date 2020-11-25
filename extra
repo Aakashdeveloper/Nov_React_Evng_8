@@ -157,3 +157,16 @@ city.map((data) => { console.log(`my city is ${data}`)
 my city is Delhi
 my city is London
 my city is Amsterdam
+
+
+parent to child => props 
+child to parent => props with function
+
+
+function add(a,b){
+    return a+b
+}
+
+add(1,2)
+
+npm i react-router-dom
