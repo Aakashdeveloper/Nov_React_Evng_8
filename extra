@@ -187,3 +187,6 @@ npm i react-router-dom
 
 
 npm i axios react-router-dom react-tabs
+
+props.history 
+withrouter
