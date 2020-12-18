@@ -12,9 +12,10 @@ Depolyment
 -> heroku
 -> Nginx
 Basic React Native=1
+React-Redux =1
 //////////////
 Github
-React-Redux =2
+React-Redux =1
 Testing
 React-Saga -1
 React-with-typescript-1
